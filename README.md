@@ -1,6 +1,4 @@
-
-
-#### Certifications 
+# Certifications 
 -  Asana skills foundation
 -  Microsoft Power Up Program - Low-code Maker Course Completion
 -  White belt certification
