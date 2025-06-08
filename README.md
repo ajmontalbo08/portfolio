@@ -1,4 +1,4 @@
-#### Key Skills: PowerPlatform, Powerfx, Smartsheet, Project Management, Process Improvement, Asana
+
 
 #### Certifications 
 -  Asana skills foundation
