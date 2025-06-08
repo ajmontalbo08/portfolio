@@ -21,4 +21,4 @@
 - Created compliance app that improved company compliance task timely completion rate and decreased time
  spent in collating supporting documents and sending reminders
 
-[Model Driven](https://github.com/ajmontalbo08/portfolio/blob/main/assets/img/modeldriven1.png)
+![Model Driven](https://github.com/ajmontalbo08/portfolio/blob/main/assets/img/modeldriven1.png) ![Model Driven](https://github.com/ajmontalbo08/portfolio/blob/main/assets/img/modeldriven1.png)
